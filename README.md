@@ -4,3 +4,4 @@ What `Hapis` means:
 (From Wikipedia)
 In ancient Egyptian religion, Apis or Hapis (Ancient Egyptian: ḥjpw, reconstructed as Old Egyptian */ˈħujp?w/ with unknown final vowel > Medio-Late Egyptian ˈħeʔp(?w), Coptic: ϩⲁⲡⲉ ḥapə), alternatively spelled Hapi-ankh, was a sacred bull worshiped in the Memphis region, identified as the son of Hathor, a primary deity in the pantheon of ancient Egypt. Initially, he was assigned a significant role in her worship, being sacrificed and reborn. Later, Apis also served as an intermediary between humans and other powerful deities (originally Ptah, later Osiris, then Atum).
 For more information: https://en.wikipedia.org/wiki/Apis_(deity)
+Hello Ragab
